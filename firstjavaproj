@@ -1,0 +1,21 @@
+import java.*;
+public class firstjavaproj;
+{
+int regno;
+string name;
+string address;
+}
+Scanner = new Scanner(System.in);
+{
+System.out.println("Enter regno");
+regno = s.nextInt();
+System.out.println("Enter name");
+name = S.nextInt();
+System.out.println("enter address");
+}
+void compute(){
+System.out.println("regno:+regno);
+System.out.println("name:+name);
+System.out.println("adress:+adress);
+}
+}
